@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.google.com/share?selection.family=Roboto:wght@100');
+
+body {
+    background-color: black;
+}
